@@ -28,9 +28,7 @@ use stdClass;
 
 class CheckInController extends AbstractController
 {
-    private $codigo = 200;
-    private $mensaje = "Solicitud enviada correctamente";
-    private $success = true;
+
 
     private $io;
 
